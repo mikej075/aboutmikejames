@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Application Support Specialist",
+      "organisation": "Project",
+      "startDate": "Aug, 2021",
+      "endDate": "Oct, 2022",
+      "experiences": ["Developed a web portfolio, pushed the code to a GitHub repository, and deployed the portfolio on AWS Cloud using Amplify."],
+      "imageSrc": "history/education.png"
+    },
+    {
+      "role": "Application Support Specialist",
+      "organisation": "Project",
+      "startDate": "Aug, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Modified and deployed application pages with JavaScript, jQuery, and Angular to improve user experience."],
+      "imageSrc": "history/education.png"
+    },
+    {
+      "role": "Application Support Specialist",
+      "organisation": "Project",
+      "startDate": "Oct 2024",
+      "endDate": "Oct 2024",
+      "experiences": [
+        "Developed plugins by creating custom Power Queries to extract specific data from the database, enabling automation of daily processes."
+      ],
+      "imageSrc": "history/education.png"
+    }
+  ]
+  
