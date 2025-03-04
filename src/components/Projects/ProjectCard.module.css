@@ -4,11 +4,22 @@
   display: flex;
   flex-direction: column;
   border-radius: 10px;
-  background: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
-  box-shadow: 0 16px 14px 0 #04152d;
+  background-color: var(--color-secondary);
+  background-image: linear-gradient(
+    90deg,
+    rgba(232, 6, 6, 0.42) 0%,
+    rgba(188, 11, 11, 0) 100%
+  );
+  background-size: 0 100%;
+  background-repeat: no-repeat;
+  transition: 0.4s;
   padding: 18px 24px;
   max-width: 345px;
   
+}
+
+.container:hover{
+  background-size: 100% 100%;
 }
 
 .image {

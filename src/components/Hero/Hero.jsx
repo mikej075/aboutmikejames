@@ -17,7 +17,7 @@ export const Hero = () => {
     }}/> 
             </div>
             <p className={styles.description}>An experienced Application Developer and Administrator with a proven track record in integrating custom solutions, managing large-scale systems, and enhancing network security for educational environments. Adept at supporting users with hands-on training, developing custom modules, and improving system reliability, all while safeguarding sensitive student and staff data. Passionate about optimizing IT workflows, automating processes, and ensuring seamless user experiences.</p>
-            <a href='https://docs.google.com/document/d/17wr4WutyYNpBppgYXSYsiPlNSstbrR7W/edit?usp=sharing&ouid=113952814723322732167&rtpof=true&sd=true'  target="_blank" className={styles.contactBtn} download >Resume</a>
+            <a href='https://drive.google.com/file/d/1yYt4iIV5CVj3MQCl1eOhW8WbW6fz13HG/view?usp=sharing'  target="_blank" className={styles.contactBtn} download >Resume</a>
         </div>
         <img src={getImageUrl("hero/profilepic2.png")} alt="Her" className={styles.heroimg} />
         <div className={styles.topBlur} />

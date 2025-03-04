@@ -11,6 +11,7 @@
   margin-right: 10%;
 }
 
+/* About me Title */
 .title {
   color: var(--color-text);
   font-size: 35px;
@@ -35,7 +36,7 @@
   flex-direction: column;
   gap: 50px;
 }
-
+/*About me section Hover Color*/
 .aboutItem {
   display: flex;
   flex-direction: row;
@@ -53,20 +54,21 @@
   background-repeat: no-repeat;
   transition: 0.4s;
 }
-
+/* About me section Hover */
 .aboutItem:hover {
   background-size: 100% 100%;
 }
-
+/* About me header */
 .aboutItem h3 {
   font-size: 25px;
   font-weight: 600;
 }
 
+/* About me Paragraph */
 .aboutItem p {
   font-size: 25px;
 }
-
+/* Media Screen */
 @media screen and (max-width: 830px) {
   .container {
     background-color: transparent;
